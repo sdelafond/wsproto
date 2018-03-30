@@ -6,6 +6,10 @@ Files: *
 Copyright: 2017 Benno Rice <benno@jeamland.net>
 License: MIT
 
+Files: wsproto/utf8validator.py
+Copyright: Crossbar.io Technologies GmbH
+License: MIT
+
 Files: debian/*
 Copyright: 2018 Sebastien Delafond <seb@debian.org>
 License: MIT
