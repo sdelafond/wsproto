@@ -1,0 +1,16 @@
+__pycache__
+.python-version
+.tox
+*.egg-info
+.cache
+.coverage
+*.pyc
+*.pyo
+docs/build
+build
+dist
+
+compliance/reports
+compliance/auto-tests-server-config.json
+compliance/auto-tests-client-config.json
+compliance/autobahntestsuite-venv/
