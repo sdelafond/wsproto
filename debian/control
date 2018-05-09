@@ -10,7 +10,7 @@ Vcs-Browser: https://salsa.debian.org/debian/python-wsproto
 
 Package: python3-wsproto
 Architecture: all
-Depends: ${misc:Depends}, ${python3:Depends}
+Depends: ${misc:Depends}, ${python3:Depends}, python3-h11 (>= 0.8)
 Description: WebSockets state-machine based protocol implementation (Python3)
  Pure-Python implementation of a WebSocket protocol stack. It's
  written from the ground up to be embeddable in whatever program you
