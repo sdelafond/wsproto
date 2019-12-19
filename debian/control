@@ -1,5 +1,5 @@
 Source: python-wsproto
-Maintainer: Sebastien Delafond <seb@debian.org>
+Maintainer: Debian QA Group <packages@qa.debian.org>
 Section: python
 Priority: optional
 Build-Depends: dh-python, python3-setuptools, python3-all, python3-pytest, python3-h11 (>= 0.8.1-1), debhelper (>= 9)
